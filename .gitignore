@@ -1,0 +1,30 @@
+# OS-specific clutter
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+*.code-workspace
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Markdown preview tools (optional)
+.cache/
+*.sass-cache
+*.jekyll-cache
+_site/
+
+# Node or Python tooling (if used later)
+node_modules/
+dist/
+__pycache__/
+.env
+
+# Image editing artifacts (if applicable)
+*.psd
+*.xcf
+*.ai
